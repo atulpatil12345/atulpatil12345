@@ -14,4 +14,4 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **basanwarkedar@gmail.com**
+- 📫 How to reach me **atulpatil8586@gmail.com**
