@@ -6,7 +6,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Kubernetes , Backend Development**
+- 🌱 I’m currently learning **Kubernetes , Terraform**
 
 - 👯 I’m looking to collaborate on **Cloud Native & DevOps Related Projects**
 
