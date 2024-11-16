@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Patil</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Azure**
 
 - 👯 I’m looking to collaborate on **Cloud Native & DevOps Related Projects**
 
